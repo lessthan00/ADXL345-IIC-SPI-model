@@ -5730,7 +5730,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_LGA:LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y"
+		(property "Footprint" "Library:LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y"
 			(at 111.76 77.47 0)
 			(effects
 				(font

@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 41,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -29,6 +29,7 @@
       "zones": true
     },
     "visible_items": [
+      "vias",
       "footprint_text",
       "footprint_anchors",
       "ratsnest",
@@ -37,6 +38,7 @@
       "footprints_back",
       "footprint_values",
       "footprint_references",
+      "tracks",
       "drawing_sheet",
       "bitmaps",
       "pads",
@@ -54,7 +56,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "ADXL345-IIC-SPI-model.kicad_prl",
+    "filename": "ADXL345BCCZ.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
